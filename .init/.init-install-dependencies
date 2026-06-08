@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/habit-tracker-and-analytics-app-347573-347587/habit_tracker_backend"
+}
